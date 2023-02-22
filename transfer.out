@@ -1,0 +1,13 @@
+当前迁移队列执行eid共计: 2 条, 需执行 2 批次
+当前迁移执行第 1 批，工作圈为：["23598298"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+******当前批次执行完成
+******迁移配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移执行第 2 批，工作圈为：["23817753"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+******当前批次执行完成
+******定时任务over******
+******迁移配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移执行第 3 批，工作圈为：[]
+******当前批次执行完成
+******定时任务over******

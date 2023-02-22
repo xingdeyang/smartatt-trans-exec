@@ -1,0 +1,8 @@
+当前回滚队列执行eid共计: 2 条, 需执行 2 批次
+当前回滚执行第 1 批，工作圈为：["23598298"]
+回滚请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前回滚执行第 2 批，工作圈为：["23817753"]
+******切换应用定时任务over******
+回滚请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前回滚执行第 3 批，工作圈为：[]
+******切换应用定时任务over******

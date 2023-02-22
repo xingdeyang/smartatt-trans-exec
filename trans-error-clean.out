@@ -1,0 +1,786 @@
+当前迁移错误圈清理队列执行eid共计: 357 条, 需执行 357 批次
+当前迁移错误圈清理执行第 1 批，工作圈为：["10013661"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 2 批，工作圈为：["10235"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 3 批，工作圈为：["10238872"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 4 批，工作圈为：["10249481"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 5 批，工作圈为：["10328761"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 6 批，工作圈为：["10407447"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 7 批，工作圈为：["10425317"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 8 批，工作圈为：["10519510"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 9 批，工作圈为：["10534576"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 10 批，工作圈为：["10560692"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 11 批，工作圈为：["10624289"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 12 批，工作圈为：["10692025"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 13 批，工作圈为：["10738268"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 14 批，工作圈为：["10828901"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 15 批，工作圈为：["10889808"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 16 批，工作圈为：["10900154"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 17 批，工作圈为：["10951018"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 18 批，工作圈为：["10955031"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 19 批，工作圈为：["11028606"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 20 批，工作圈为：["11062810"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 21 批，工作圈为：["11112416"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 22 批，工作圈为：["11240626"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 23 批，工作圈为：["11268991"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 24 批，工作圈为：["11328921"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 25 批，工作圈为：["11451614"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 26 批，工作圈为：["11474719"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 27 批，工作圈为：["11478111"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 28 批，工作圈为：["11500313"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 29 批，工作圈为：["11574012"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 30 批，工作圈为：["11580255"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 31 批，工作圈为：["11640358"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 32 批，工作圈为：["11731509"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 33 批，工作圈为：["11738625"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 34 批，工作圈为：["11794115"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 35 批，工作圈为：["11805173"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 36 批，工作圈为：["11850097"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 37 批，工作圈为：["11860203"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 38 批，工作圈为：["11878714"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 39 批，工作圈为：["11885454"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 40 批，工作圈为：["11888520"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 41 批，工作圈为：["11933112"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 42 批，工作圈为：["11937565"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 43 批，工作圈为：["11997807"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 44 批，工作圈为：["12001766"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 45 批，工作圈为：["12018385"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 46 批，工作圈为：["12043958"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 47 批，工作圈为：["12139130"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 48 批，工作圈为：["12200730"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 49 批，工作圈为：["12302184"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 50 批，工作圈为：["12307955"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 51 批，工作圈为：["12315155"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 52 批，工作圈为：["12325423"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 53 批，工作圈为：["12340452"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 54 批，工作圈为：["12438542"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 55 批，工作圈为：["12445181"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 56 批，工作圈为：["12447524"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 57 批，工作圈为：["12471692"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 58 批，工作圈为：["12475051"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 59 批，工作圈为：["12482602"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 60 批，工作圈为：["12485584"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 61 批，工作圈为：["12510810"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 62 批，工作圈为：["12538"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 63 批，工作圈为：["12551043"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 64 批，工作圈为：["12759859"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 65 批，工作圈为：["12777140"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 66 批，工作圈为：["12854937"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 67 批，工作圈为：["12909292"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 68 批，工作圈为：["12981629"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 69 批，工作圈为：["12981935"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 70 批，工作圈为：["13018306"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 71 批，工作圈为：["13051617"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 72 批，工作圈为：["13077428"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 73 批，工作圈为：["13088782"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 74 批，工作圈为：["13148923"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 75 批，工作圈为：["13181694"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 76 批，工作圈为：["13184693"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 77 批，工作圈为：["13233732"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 78 批，工作圈为：["13301738"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 79 批，工作圈为：["13311434"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 80 批，工作圈为：["13320814"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 81 批，工作圈为：["13408998"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 82 批，工作圈为：["13413777"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 83 批，工作圈为：["13445347"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 84 批，工作圈为：["13472087"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 85 批，工作圈为：["13568860"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 86 批，工作圈为：["13607551"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 87 批，工作圈为：["13613993"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 88 批，工作圈为：["13618074"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 89 批，工作圈为：["13652147"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 90 批，工作圈为：["13744036"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 91 批，工作圈为：["13753174"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 92 批，工作圈为：["13943500"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 93 批，工作圈为：["14043216"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 94 批，工作圈为：["14098869"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 95 批，工作圈为：["14234603"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 96 批，工作圈为：["14296906"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 97 批，工作圈为：["14327972"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 98 批，工作圈为：["14376540"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 99 批，工作圈为：["14445404"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 100 批，工作圈为：["14520585"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 101 批，工作圈为：["14602042"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 102 批，工作圈为：["14614962"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 103 批，工作圈为：["14732497"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 104 批，工作圈为：["14894176"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 105 批，工作圈为：["14907639"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 106 批，工作圈为：["14946799"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 107 批，工作圈为：["14961162"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 108 批，工作圈为：["14993608"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 109 批，工作圈为：["15191466"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 110 批，工作圈为：["15212222"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 111 批，工作圈为：["15268390"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 112 批，工作圈为：["15316111"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 113 批，工作圈为：["15398349"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 114 批，工作圈为：["15739584"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 115 批，工作圈为：["15754304"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 116 批，工作圈为：["15780934"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 117 批，工作圈为：["15901943"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 118 批，工作圈为：["15936646"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 119 批，工作圈为：["16143364"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 120 批，工作圈为：["16202842"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 121 批，工作圈为：["16279524"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 122 批，工作圈为：["16390558"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 123 批，工作圈为：["16490799"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 124 批，工作圈为：["16509272"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 125 批，工作圈为：["16515433"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 126 批，工作圈为：["16571144"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 127 批，工作圈为：["16610952"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 128 批，工作圈为：["16653341"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 129 批，工作圈为：["16757837"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 130 批，工作圈为：["16791339"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 131 批，工作圈为：["16861207"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 132 批，工作圈为：["16864815"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 133 批，工作圈为：["16910654"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 134 批，工作圈为：["16996057"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 135 批，工作圈为：["17009191"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 136 批，工作圈为：["17121679"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 137 批，工作圈为：["1743960"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 138 批，工作圈为：["1758548"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 139 批，工作圈为：["1761398"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 140 批，工作圈为：["17669432"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 141 批，工作圈为：["17672904"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 142 批，工作圈为：["17799971"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 143 批，工作圈为：["17826146"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 144 批，工作圈为：["17831070"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 145 批，工作圈为：["17839541"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 146 批，工作圈为：["17913311"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 147 批，工作圈为：["17951619"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 148 批，工作圈为：["18070847"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 149 批，工作圈为：["18071211"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 150 批，工作圈为：["18073328"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 151 批，工作圈为：["18240056"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 152 批，工作圈为：["18312669"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 153 批，工作圈为：["18438367"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 154 批，工作圈为：["18440214"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 155 批，工作圈为：["188248"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 156 批，工作圈为：["18866567"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 157 批，工作圈为：["18974683"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 158 批，工作圈为：["19020076"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 159 批，工作圈为：["19092686"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 160 批，工作圈为：["19200042"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 161 批，工作圈为：["19210994"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 162 批，工作圈为：["19251827"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 163 批，工作圈为：["19359764"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 164 批，工作圈为：["19385049"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 165 批，工作圈为：["19595200"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 166 批，工作圈为：["19620998"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 167 批，工作圈为：["19676253"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 168 批，工作圈为：["19769588"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 169 批，工作圈为：["19775584"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 170 批，工作圈为：["19909375"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 171 批，工作圈为：["19940485"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 172 批，工作圈为：["19951168"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 173 批，工作圈为：["20092586"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 174 批，工作圈为：["20102459"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 175 批，工作圈为：["20166723"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 176 批，工作圈为：["20310009"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 177 批，工作圈为：["20323515"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 178 批，工作圈为：["20349257"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 179 批，工作圈为：["20352613"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 180 批，工作圈为：["2036030"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 181 批，工作圈为：["20373920"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 182 批，工作圈为：["20442937"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 183 批，工作圈为：["20459190"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 184 批，工作圈为：["20480542"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 185 批，工作圈为：["20485685"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 186 批，工作圈为：["20505015"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 187 批，工作圈为：["20507861"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 188 批，工作圈为：["20515929"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 189 批，工作圈为：["20536645"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 190 批，工作圈为：["20554561"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 191 批，工作圈为：["20562224"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 192 批，工作圈为：["20633360"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 193 批，工作圈为：["20642201"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 194 批，工作圈为：["20725419"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 195 批，工作圈为：["20791686"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 196 批，工作圈为：["20901209"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 197 批，工作圈为：["20909931"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 198 批，工作圈为：["20934094"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 199 批，工作圈为：["20959994"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 200 批，工作圈为：["20980141"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 201 批，工作圈为：["20984836"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 202 批，工作圈为：["21028162"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 203 批，工作圈为：["21048056"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 204 批，工作圈为：["21127755"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 205 批，工作圈为：["21189151"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 206 批，工作圈为：["2121029"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 207 批，工作圈为：["21249562"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 208 批，工作圈为：["21252010"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 209 批，工作圈为：["21285853"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 210 批，工作圈为：["21285867"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 211 批，工作圈为：["21294647"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 212 批，工作圈为：["21298404"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 213 批，工作圈为：["21342339"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 214 批，工作圈为：["21365674"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 215 批，工作圈为：["21390973"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 216 批，工作圈为：["21423377"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 217 批，工作圈为：["21426377"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 218 批，工作圈为：["21426608"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 219 批，工作圈为：["21457245"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 220 批，工作圈为：["21501575"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 221 批，工作圈为：["21522730"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 222 批，工作圈为：["21531872"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 223 批，工作圈为：["21551155"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 224 批，工作圈为：["21598685"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 225 批，工作圈为：["21619057"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 226 批，工作圈为：["21646229"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 227 批，工作圈为：["21651505"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 228 批，工作圈为：["21654968"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 229 批，工作圈为：["21704790"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 230 批，工作圈为：["21713635"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 231 批，工作圈为：["21760336"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 232 批，工作圈为：["21767414"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 233 批，工作圈为：["21784501"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 234 批，工作圈为：["21786443"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 235 批，工作圈为：["21821631"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 236 批，工作圈为：["21836759"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 237 批，工作圈为：["21859963"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 238 批，工作圈为：["21911424"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 239 批，工作圈为：["21966036"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 240 批，工作圈为：["21994413"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 241 批，工作圈为：["22021943"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 242 批，工作圈为：["22060675"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 243 批，工作圈为：["22067425"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 244 批，工作圈为：["22131722"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 245 批，工作圈为：["22134385"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 246 批，工作圈为：["22151578"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 247 批，工作圈为：["22208353"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 248 批，工作圈为：["2224195"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 249 批，工作圈为：["22258844"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 250 批，工作圈为：["22277613"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 251 批，工作圈为：["22292255"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 252 批，工作圈为：["22296053"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 253 批，工作圈为：["22300148"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 254 批，工作圈为：["22300779"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 255 批，工作圈为：["22314419"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 256 批，工作圈为：["22325522"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 257 批，工作圈为：["22355510"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 258 批，工作圈为：["22367713"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 259 批，工作圈为：["22372615"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 260 批，工作圈为：["22440544"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 261 批，工作圈为：["22500957"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 262 批，工作圈为：["22528761"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 263 批，工作圈为：["22573484"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 264 批，工作圈为：["22587148"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 265 批，工作圈为：["22609104"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 266 批，工作圈为：["22645663"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 267 批，工作圈为：["22696136"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 268 批，工作圈为：["22724289"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 269 批，工作圈为：["22726630"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 270 批，工作圈为：["22776422"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 271 批，工作圈为：["22810025"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 272 批，工作圈为：["22862417"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 273 批，工作圈为：["22882450"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 274 批，工作圈为：["22950737"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 275 批，工作圈为：["22953290"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 276 批，工作圈为：["22977402"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 277 批，工作圈为：["22994694"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 278 批，工作圈为：["2305779"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 279 批，工作圈为：["23132850"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 280 批，工作圈为：["23152474"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 281 批，工作圈为：["23158273"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 282 批，工作圈为：["23189604"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 283 批，工作圈为：["23271497"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 284 批，工作圈为：["23289212"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 285 批，工作圈为：["23292749"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 286 批，工作圈为：["23293593"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 287 批，工作圈为：["23303386"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 288 批，工作圈为：["23315404"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 289 批，工作圈为：["23318664"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 290 批，工作圈为：["23328775"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 291 批，工作圈为：["23347194"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 292 批，工作圈为：["23372857"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 293 批，工作圈为：["23451796"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 294 批，工作圈为：["23454599"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 295 批，工作圈为：["23493354"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 296 批，工作圈为：["23518574"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 297 批，工作圈为：["23518922"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 298 批，工作圈为：["23578231"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 299 批，工作圈为：["23619161"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 300 批，工作圈为：["2384337"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 301 批，工作圈为：["2465201"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 302 批，工作圈为：["2485449"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 303 批，工作圈为：["2485502"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 304 批，工作圈为：["3604816"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 305 批，工作圈为：["3604839"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 306 批，工作圈为：["3699319"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 307 批，工作圈为：["3710909"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 308 批，工作圈为：["3777102"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 309 批，工作圈为：["3781112"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 310 批，工作圈为：["3820815"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 311 批，工作圈为：["4185889"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 312 批，工作圈为：["4333327"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 313 批，工作圈为：["434202"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 314 批，工作圈为：["4353081"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 315 批，工作圈为：["4383598"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 316 批，工作圈为：["4464465"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 317 批，工作圈为：["4470190"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 318 批，工作圈为：["460788"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 319 批，工作圈为：["460872"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 320 批，工作圈为：["468399"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 321 批，工作圈为：["4756992"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 322 批，工作圈为：["4785394"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 323 批，工作圈为：["4812761"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 324 批，工作圈为：["482593"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 325 批，工作圈为：["4836031"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 326 批，工作圈为：["4847197"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 327 批，工作圈为：["4849796"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 328 批，工作圈为：["48543"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 329 批，工作圈为：["507863"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 330 批，工作圈为：["515710"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 331 批，工作圈为：["54602"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 332 批，工作圈为：["58924"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 333 批，工作圈为：["7937130"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 334 批，工作圈为：["8120367"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 335 批，工作圈为：["8227398"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 336 批，工作圈为：["8403419"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 337 批，工作圈为：["8429281"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 338 批，工作圈为：["8449149"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 339 批，工作圈为：["8498298"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 340 批，工作圈为：["8527179"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 341 批，工作圈为：["8716025"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 342 批，工作圈为：["9024947"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 343 批，工作圈为：["9038434"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 344 批，工作圈为：["9115973"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 345 批，工作圈为：["9265021"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 346 批，工作圈为：["9337799"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 347 批，工作圈为：["9438935"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 348 批，工作圈为：["9565262"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 349 批，工作圈为：["9578642"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 350 批，工作圈为：["9616422"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 351 批，工作圈为：["9638331"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 352 批，工作圈为：["9667806"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 353 批，工作圈为：["9697864"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 354 批，工作圈为：["9856999"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 355 批，工作圈为：["9876891"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 356 批，工作圈为：["9965818"]
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 357 批，工作圈为：["9977649"]
+******迁移错误圈清理定时任务over******
+******清理新考勤配置请求成功收到回包 {"success":true,"errorCode":200,"data":null,"errorMessage":null}
+当前迁移错误圈清理执行第 358 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 359 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 360 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 361 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 362 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 363 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 364 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 365 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 366 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 367 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 368 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 369 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 370 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 371 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 372 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 373 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 374 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 375 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 376 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 377 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 378 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 379 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 380 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 381 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 382 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 383 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 384 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 385 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 386 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 387 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 388 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 389 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 390 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 391 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
+当前迁移错误圈清理执行第 392 批，工作圈为：[]
+******迁移错误圈清理定时任务over******
