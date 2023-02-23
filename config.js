@@ -1,5 +1,5 @@
 module.exports = {
     hostname: 'www.yunzhijia.com',
     // hostname: 'kdtest.kdweibo.cn',
-    token: 'q1tWE4LplSYbj2nEUpJtFNW1nzkLbapC'
+    token: '0YqxtQtbM4f0zEZ8Z4rJ3OKBWePqAGm4'
 }
