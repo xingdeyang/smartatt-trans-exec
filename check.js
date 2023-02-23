@@ -23,24 +23,12 @@ function mapLimit (list, limit, asyncHandle) {
 class App {
     eids = []
 
-    foreachData (arr) {
-        for(let i = 0; i < arr.length; i++) {
-            // 有异常
-            if (arr[i].status === 5) {
-                return false
-            }
-        }
-        return true
-    }
-
     async filter () {
         const settingList = []
-        const applyList = []
         await mapLimit(this.eids, 10, async id => {
             const { body } = await superagent.get(`https://yunzhijia.com/smartatt-clock/manage/transferlog?eid=${id}`)
             const data = body.data || []
             let settingsIndex = 0
-            let applyIndex = 0
             let removeIndex = 0
             // 获取最后一次迁移配置结束index
             for(let i = 0; i < data.length; i++) {
@@ -63,7 +51,6 @@ class App {
             return id
         })
         return {
-            applyList,
             settingList
         }
     }
@@ -74,14 +61,14 @@ class App {
             if (err) {
                 console.log('读取文件错误')
             } else {
-                this.eids = data.split('\r\n')
+                this.eids = data.split('\n')
                 this.filter().then(res => {
-                    fs.writeFile(__dirname + '/check.txt', res.settingList.join('\n'), (err) => {
+                    fs.writeFile(__dirname + '/check-result.txt', res.settingList.join('\n'), (err) => {
                         if (err) {
                             console.log('写入文件失败')
                         } else {
                             const lastTimme = new Date()
-                            console.log(`配置迁移成功表生成总耗时${(lastTimme - firstTime) / 1000}s`)
+                            console.log(`迁移成功表生成总耗时${(lastTimme - firstTime) / 1000}s`)
                         }
                     })
                 })
