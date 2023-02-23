@@ -1,3 +1,8 @@
+/*
+    1. 运行依赖smartatt-clock的token(配置在config中)
+    2. 切换名单: switch.txt(来自check-result.txt)
+    3. 迁移日志要 >> 到switch.out
+*/
 const readline          = require('readline')
 const fs                = require('fs')
 const path              = require('path')

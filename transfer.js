@@ -1,6 +1,7 @@
 /*
     1. 运行依赖smartatt-clock的token(配置在config中)
-    2. 迁移日志要 >> 到transfer.out
+    2. 迁移名单: transfer.txt
+    3. 迁移日志要 >> 到transfer.out
 */
 const readline          = require('readline')
 const fs                = require('fs')

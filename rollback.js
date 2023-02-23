@@ -1,3 +1,9 @@
+/*
+    1. 运行依赖smartatt-clock的token(配置在config中)
+    2. 回滚名单: rollback.txt
+    2. 回滚日志要 >> 到rollback.out
+*/
+
 const readline          = require('readline')
 const fs                = require('fs')
 const path              = require('path')

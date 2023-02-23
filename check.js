@@ -1,3 +1,9 @@
+/*
+    1. 基于迁移日志校验迁移结果
+    2. 依赖: transfer.txt
+    3. 迁移成功eid输出到check-result.txt
+*/
+
 const fs            = require('fs')
 const superagent    = require('superagent')
 
